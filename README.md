@@ -13,3 +13,6 @@ The system consists of 4 main components as shown in the above graphical represe
 Based on the above specification we could derive the below UML Class Diagram in order to plan our programming beforehand.
 
 ![image](https://user-images.githubusercontent.com/76457616/120044541-5a2e7000-c00e-11eb-866f-4db667bc5c37.png)
+
+# Related Projects
+REST API Project : https://github.com/SachiHarshitha/HyperledgerFabric-UWB-RESTAPI
